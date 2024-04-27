@@ -1,7 +1,7 @@
 let teachers_info = [
   {
     id: 1,
-    img: "img/teachers_about/director.jpg",
+    img: "img/teachers_about/director.webp",
     name: "Нарзиқулова Гулчеҳра Камбаридиновна",
     who: "Самарқанд тумани  2-ихтисослаштирилган  давлат умумтаълим мактаби директори",
     thisdate: "1999 йил 01 ноябрдан:",
@@ -17,7 +17,7 @@ let teachers_info = [
   },
   {
     id: 2,
-    img: "img/teachers_about/zavuch.jpg",
+    img: "img/teachers_about/zavuch.webp",
     name: "Ҳалимова Зулфия Давроновна",
     who: "Самарқанд тумани  2-ихтисослаштирилган давлат умумтаълим мактаби ўқув ишлари бўйича директор ўринбосари",
     thisdate: "2012 йил 02 сентябрдан:",
@@ -34,7 +34,7 @@ let teachers_info = [
   },
   {
     id: 3,
-    img: "img/teachers_about/astanova.jpg",
+    img: "img/teachers_about/astanova.webp",
     name: "Астанова Дилбар Зубайдовна",
     who: "Самарқанд тумани 2-умумтаълим мактаби  ўқув ва тарбиявий ишлар бўйича директор ўринбосари",
     thisdate: "2018 йил 5-сентябрдa",
@@ -53,7 +53,7 @@ let teachers_info = [
   },
   {
     id: 5,
-    img: "./img/teachers_about/baxtiyor teacher.jpg",
+    img: "./img/teachers_about/baxtiyor teacher.webp",
     name: "Ураков  Бахтиёр  Шукруллоевич",
     who: "Самарқанд тумани 2–ихтисослаштирилган давлат умумтаълим мактаби биология фани  ўқитувчиси",
     thisdate: "2017 йил 01 мартдан:",
@@ -84,7 +84,7 @@ let teachers_info = [
   },
   {
     id: 6,
-    img: './img/teachers_about/hamza teacher.jpg',
+    img: './img/teachers_about/hamza teacher.webp',
     name: "Аслиддинов Хамза Нуритдинович",
     who: "Самарканд тумани  2-ихтисослаштирилган давлат умумтаълим мактабининг жисмоний тарбия фани ўқитувчиси ",
     thisdate: "1992 йил 19 августдан:",
@@ -98,7 +98,7 @@ let teachers_info = [
   },
   {
     id: 7,
-    img: "./img/teachers_about/gulchexra teacher.jpg",
+    img: "./img/teachers_about/gulchexra teacher.webp",
     name: "Холова Гулчеҳра Нажмиддинова",
     who: "Самарқанд тумани 2-ихтисослаштирилган давлат умумтаълим мактаби она тили ва адабиёт фани ўқитувчиси.",
     thisdate: "2012 йил 02 сентябрдан:",
@@ -114,7 +114,7 @@ let teachers_info = [
   },
   {
     id: 8,
-    img: "img/teachers_about/iroda teacher.jpg",
+    img: "img/teachers_about/iroda teacher.webp",
     name: "Уракова Ирода Шукруллоевна",
     who: "Самарқанд тумани 2-ихтисослаштирилган давлат умумтаълим мактаби бошланғич синф ўқитувчиси",
     thisdate: "2018 йил 03сентябрдан:",
@@ -131,7 +131,7 @@ let teachers_info = [
   },
   {
     id: 9,
-    img: "img/teachers_about/nigina teacher.jpg",
+    img: "img/teachers_about/nigina teacher.webp",
     name: "Шодмонова Нигина Фуркатовна",
     who: "Самарканд тумани 2-умумий ўрта таълим мактабида рус тили ва адабиёти фаниўқитувчиси",
     thisdate: "2014йил 2 сентябрдан: ",
@@ -148,7 +148,7 @@ let teachers_info = [
   },
   {
     id: 10,
-    img: "img/teachers_about/gulmira teacher.jpg",
+    img: "img/teachers_about/gulmira teacher.webp",
     name: "Шодиева Гулмира Усмоновна",
     who: "Самарканд тумани 2-ихтисослаштирилган давлат умумтаълим мактаби бошланғич таълим фан ўқитувчиси ",
     thisdate: "2002  йил 2 сентябрдан:",
@@ -166,7 +166,7 @@ let teachers_info = [
   },
   {
     id: 11,
-    img: "img/teachers_about/nasiba teacher.jpg",
+    img: "img/teachers_about/nasiba teacher.webp",
     name: "Шермухамедова Насиба Собировна",
     who: "Самарқанд тумани 2-ихтисослаштирилган давлат умумтаълим мактаби рус тили ва адабиёти фан ўқитувчиси",
     thisdate: "2015 йил 02 сентябрдан:",
@@ -197,7 +197,7 @@ let teachers_info = [
   },
   {
     id: 13,
-    img: "img/teachers_about/sattorova teacher.jpg",
+    img: "img/teachers_about/sattorova teacher.webp",
     name: "Сатторова Мухаббат Мажидовна ",
     who: "Самарканд тумани 2-ихтисослаштирилган давлат умумтаълим мактаби инглиз тили фан  ўқитувчиси ",
     thisdate: "2001 йил 1 сентябрдан:",
@@ -212,7 +212,7 @@ let teachers_info = [
   },
   {
     id: 14,
-    img: "img/teachers_about/saidova nigina teacher.jpg",
+    img: "img/teachers_about/saidova nigina teacher.webp",
     name: " Саидова Нигина Абдугафоровна",
     who: "Самарқанд тумани 2-ихтисослаштирилган давлат умумий ўрта таълим мактаби тарих фани ўқитувчиси",
     thisdate: "2018 йил 1 апрелдан:",
@@ -229,7 +229,7 @@ let teachers_info = [
   },
   {
     id: 15,
-    img: "img/teachers_about/qodirova nasiba teacher.jpg",
+    img: "img/teachers_about/qodirova nasiba teacher.webp",
     name: "Кадирова Насиба Мардоновна",
     who: "Самарканд тумани 2-ихтисослаштирилган давлат умумтаълим мактаби рус тили ва адабиёти фани  ўқитувчиси",
     thisdate: "2011  йил 2 сентябрдан:",
@@ -247,7 +247,7 @@ let teachers_info = [
   },
   {
     id: 16,
-    img: "img/teachers_about/dilfuza Teacher.jpg",
+    img: "img/teachers_about/dilfuza Teacher.webp",
     name: "Қобилова Дилфуза Холмаматовна",
     who: "Самарқанд тумани 2- ихтисослашган давлат умумтаълим мактабининг бошланғич синф ўқитувчиси",
     thisdate: "2018 йил 03 сентябрдан:",
@@ -263,7 +263,7 @@ let teachers_info = [
   },
   {
     id: 17,
-    img: "img/teachers_about/barno teacher.jpg",
+    img: "img/teachers_about/barno teacher.webp",
     name: "Кандахарова Барно Жамоловна",
     who: "Cамарканд тумани 2-ихтисослаштирилган давлат умумтаълим мактабида она тили ва адабиёт фани ўқитувчиси",
     thisdate: "2012 йил 02 сентябрдан:",
@@ -277,7 +277,7 @@ let teachers_info = [
   },
   {
     id: 18,
-    img: "img/teachers_about/Odilova teacher.jpg",
+    img: "img/teachers_about/Odilova teacher.webp",
     name: "Одилова Инобат Мажидовна",
     who: "Самарқанд тумани 2-ихтисослаштирилган давлат умумтаълим мактаби инглиз тили фани ўқитувчиси ",
     thisdate: "2002 йил 02 сентябрдан:",
@@ -291,7 +291,7 @@ let teachers_info = [
   },
   {
     id: 19,
-    img: "img/teachers_about/shoxsanam teacher.jpg",
+    img: "img/teachers_about/shoxsanam teacher.webp",
     name: "Насриддинова Шохсанам Туракуловна",
     who: "Самарқанд тумани 2-ихтисолаштирилган давлат умумтаълим мактаби бошланғич таълим фани ўқитувчиси",
     thisdate: "2007 йил 15 августдан:",
@@ -313,7 +313,7 @@ let teachers_info = [
   },
   {
     id: 20,
-    img: "img/teachers_about/manzura teacher.jpg",
+    img: "img/teachers_about/manzura teacher.webp",
     name: "Мирзаева Манзура Ботировна",
     who: " Самарқанд тумани 2-ихтисослаштирилган давлат умумтаълим мактаби бошланғич синф ўқитувчиси",
     thisdate: "2018 йил 3-сентябрдан:",
@@ -329,7 +329,7 @@ let teachers_info = [
   },
   {
     id: 21,
-    img: "img/teachers_about/dilnoza teacher.jpg",
+    img: "img/teachers_about/dilnoza teacher.webp",
     name: "Махмудова Дилноза Фурқатовна ",
     who: "Самарқанд тумани 2-ихтисослаштирилган давлат умумтаълим мактаби бошланғич таълим фан ўқитувчиси",
     thisdate: "2010 йил 15 ноябрдан:",
@@ -345,7 +345,7 @@ let teachers_info = [
   },
   {
     id: 22,
-    img: "img/teachers_about/izzat teacher.jpg",
+    img: "img/teachers_about/izzat teacher.webp",
     name: "Мамаражабов Иззат Фарҳод ўғли ",
     who: "Самарқанд тумани 2-ихтисослаштирилган давлат умумтаълим мактаби жисмоний тарбия ўқитувчиси",
     thisdate: "2017 йил 2 сентябрдан:",
@@ -364,7 +364,7 @@ let teachers_info = [
   },
   {
     id: 23,
-    img: "img/teachers_about/begzod teacher.jpg",
+    img: "img/teachers_about/begzod teacher.webp",
     name: "Мамаражабов Бекзод Ўрозали ўғли",
     who: "Самарқанд тумани 2-ихтисослаштирилган давлат умумтаълим мактаби география фани ўқитувчиси",
     thisdate: "2017 йил 02 сентябрдан:",
@@ -379,7 +379,7 @@ let teachers_info = [
   },
   {
     id: 24,
-    img: "img/teachers_about/kamolova teacher.jpg",
+    img: "img/teachers_about/kamolova teacher.webp",
     name: "Камолова Дилором  Нуритдиновна",
     who: "Самарканд тумани 2-ихтисослаштирилган давлат таълим мактаби кимё фани ўқитувчиси ",
     thisdate: "1992 йил 2 сентябрдан:",
@@ -417,7 +417,7 @@ let teachers_info = [
   },
   {
     id: 26,
-    img: "img/teachers_about/hulkar teacher.jpg",
+    img: "img/teachers_about/hulkar teacher.webp",
     name: "Холова Ҳулкарой Асрор қизи",
     who: "Самарканд тумани  2-ихтисослаштирилган давлат умумтаълим мактаби расм  ва чизмачилик фани ўқитувчиси",
     thisdate: "2015  йил 02 сентябрдан:",
@@ -433,7 +433,7 @@ let teachers_info = [
   },
   {
     id: 27,
-    img: "img/teachers_about/sayora teacher.jpg",
+    img: "img/teachers_about/sayora teacher.webp",
     name: "Хайитова Сайёра Фурқатовна",
     who: "Самарканд тумани 2-ихтисослаштирилган давлат умумтаълим мактаби инглиз тили фани ўқитувчиси",
     thisdate: "2013 йил 02 сентябрдан:",
@@ -447,7 +447,7 @@ let teachers_info = [
   },
   {
     id: 28,
-    img: "img/teachers_about/gulhayo teacher.jpg",
+    img: "img/teachers_about/gulhayo teacher.webp",
     name: "Hayitova Gulhayo Nurqobilqizi",
     who: "Samarqand tumani xalq ta'lim bo'limi tasarrufidagi 2- umumiy o'rta ta'lim maktabi fizika fani o'qituvchisi",
     thisdate: "2020 yil 11-yanvardan ",
@@ -465,7 +465,7 @@ let teachers_info = [
   },
   {
     id: 30,
-    img: "img/teachers_about/xurshida.jpg",
+    img: "img/teachers_about/xurshida.webp",
     name: "Газиева Хуршида Баходировна",
     who: "Самарқанд тумани 2-умумий ўрта таълим мактаби бошланғич синф ўқитувчиси",
     thisdate: "2018 йил 3 сентябрдан:",
@@ -483,7 +483,7 @@ let teachers_info = [
   },
   {
     id: 31,
-    img: "img/teachers_about/kubaro teacher.jpg",
+    img: "img/teachers_about/kubaro teacher.webp",
     name: "Бердиева Кубаро Хамракуловна",
     who: "Самарқанд тумани 2- ихтисослаштирилган  давлат умумтаълим мактаби рус тили фани ўқитувчиси ",
     thisdate: "2019 йил 1 ноябрдан:",
@@ -500,7 +500,7 @@ let teachers_info = [
   },
   {
     id: 32,
-    img: "img/teachers_about/nargiza teacher.jpg",
+    img: "img/teachers_about/nargiza teacher.webp",
     name: "Бахриддинова Наргиза Неъматовна",
     who: "Самарқанд тумани 2-ихтисослаштирилган давлат умумтаълим мактабининг инглиз тили фани ўқитувчиси",
     thisdate: "2014 йил 02 сентябрдан: ",
@@ -530,7 +530,7 @@ let teachers_info = [
   },
   {
     id: 34,
-    img: "img/teachers_about/marziya teacher.jpg",
+    img: "img/teachers_about/marziya teacher.webp",
     name: "Баротова Марзия Абдуазизовна",
     who: "Самарканд тумани 2-ихтисослаштирилган давлат умумий ўрта таълим мактаби бошланғич синф укитувчиси",
     thisdate: "2017 йил 2 сентябрдан:",
@@ -567,7 +567,7 @@ let teachers_info = [
   },
   {
     id: 36,
-    img: "img/teachers_about/alibaeva teacher.jpg",
+    img: "img/teachers_about/alibaeva teacher.webp",
     name: "Алибаева Азиза Олимжоновна",
     who: "Самарқанд туманидаги 2-ихтисослаштирилган давлат умумтаълим мактабининг физика фани ўқитувчиси ",
     thisdate: "2019 йил 02 сентябрдан ",
@@ -598,7 +598,7 @@ let teachers_info = [
   },
   {
     id: 38,
-    img: "img/teachers_about/zarnigor teacher.jpg",
+    img: "img/teachers_about/zarnigor teacher.webp",
     name: "Абдукаримова Зарнигор Абдукаримовна",
     who: "Самарқанд тумани 2-ихтисослаштирилган давлат умумтаълим мактаби инглиз тили фани ўқитувчиси",
     thisdate: "2012 йилдан 12 ноябрдан:",
@@ -613,7 +613,7 @@ let teachers_info = [
   },
   {
     id: 39,
-    img: "img/teachers_about/nilufar teacher.jpg",
+    img: "img/teachers_about/nilufar teacher.webp",
     name: "Абдукаримова Нилуфар Абдукаримовна",
     who: "Самарқанд иқтисодиёт ва сервис институти академик лицейи инглиз тили фани ўқитувчиси",
     thisdate: "2011 йил 2 сентябрдан:",
@@ -631,7 +631,7 @@ let teachers_info = [
   },
   {
     id: 40,
-    img: "img/teachers_about/baxora teacher.jpg",
+    img: "img/teachers_about/baxora teacher.webp",
     name: "Курбонова Бахора Рустамовна",
     who: "Самарқанд туманидаги 2-ихтисослаштирилган давлат умумтаълим мактабида инглиз тили фани ўқитувчиси",
     thisdate: "2017йил  2-Сентябрдан:",
@@ -646,7 +646,7 @@ let teachers_info = [
   },
   {
     id: 41,
-    img: "img/teachers_about/gulshoda techet.jpg",
+    img: "img/teachers_about/gulshoda techet.webp",
     name: "Ирисқулова Гулшодa Жаҳангировна",
     who: "Самарқанд тумани 2-ихтисослаштирилган давлат умумимтаълим мактаби бошланғич синф ўқитувчиси ",
     thisdate: "2018йил 3-сентиябрдан:",
