@@ -664,7 +664,6 @@ let teachers_info = [
 
 // ==================================================================================  
 
-
 let d = document
 let burger_menu = d.querySelector('.burger_menu')
 let to_top = d.querySelector('.to_top')
