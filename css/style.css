@@ -488,7 +488,7 @@ em {
 /* achivements */
 .section_four {
     padding: 50px 0;
-    background: url(../img/sec_achive_background.jpg);
+    background: url(../img/sec_achive_background.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -572,4 +572,35 @@ em {
 }
 .footer_box_left iframe {
     max-width: 100%;
+}
+.section_beforNow {
+    padding: 25px 0;
+}
+.sec_beforNow_into {
+    display: flex;
+    justify-content: center;
+    text-align: center ;
+}
+.sec_beforNow_into img {
+    max-width: 500px;
+    max-height: 280px;
+    margin: 15px 0;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px black;
+    
+}
+.sec_beforNow_into h2 {
+    text-align: center;
+    margin: 15px 0;
+    font-size: 36px;
+    letter-spacing: 1px;
+}
+.beforNow_right h2 {
+    color: rgb(238, 0, 0);
+}
+.beforNow_left h2 {
+    color: rgb(0, 165, 0);
+}
+.beforNow_right {
+    max-width: 50%;
 }

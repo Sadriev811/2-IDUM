@@ -104,6 +104,13 @@
         background-color: rgba(232, 229, 229, 0.964);
         padding-bottom: 20px;
     }
+    .navbar a {
+        margin-left: 20px;
+        font-size: 17px;
+        color: white;
+        font-weight: 500;
+        transition: 400ms;
+    }
 }
 @media(max-width:992px) {
     .sec_two_info_one {
@@ -160,8 +167,6 @@
         grid-template-columns: 1fr;
         row-gap: 30px;
     }
-}
-@media(max-width:850px) {
     .navbar {
         display: none;
     }
