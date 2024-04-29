@@ -677,7 +677,6 @@ let teachers_modal = d.querySelector('.teachers_modal')
 let modal_block_header = d.querySelector('.modal_block_header')
 let sec_three_into = d.querySelector('.sec_three_into')
 let btn_new = d.querySelector('.btn_new')
-// import teachers_info from "./info.js"
 
 AOS.init();
 

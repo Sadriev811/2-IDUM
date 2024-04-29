@@ -343,6 +343,18 @@
     .beforeNow_right_into {
         margin-bottom: 25px;
     }
+    .section_beforNow {
+        padding: 25px 0px 0px 0px;
+    }
+    .btn_new {
+        margin-top: 0px;
+    }
+    .section_four {
+        padding: 30px 0;
+        background: url(../img/sec_achive_background.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
 }
 @media(max-width:400px) {
     .section_one_into h1 {
